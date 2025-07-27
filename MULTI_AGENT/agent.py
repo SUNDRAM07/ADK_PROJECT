@@ -16,7 +16,7 @@ from .sub_agents.general_trends_expert.agent import general_trends_expert
 #     }
 
 root_agent = Agent(
-    name="manager",
+    name="MULTI_AGENT",
     model="gemini-2.0-flash-001",
     description="Manager agent",
     instruction="""
