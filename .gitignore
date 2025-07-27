@@ -1,0 +1,12 @@
+# env 
+MULTI_AGENT/.env
+
+#venv
+.venv
+
+MULTI_AGENT/__pycache__
+MULTI_AGENT/sub_agents/__pycache__
+MULTI_AGENT/sub_agents/general_trends_expert/__pycache__
+MULTI_AGENT/sub_agents/mandi_expert/__pycache__
+MULTI_AGENT/sub_agents/soil_expert/__pycache__
+MULTI_AGENT/sub_agents/weather_expert/__pycache__
